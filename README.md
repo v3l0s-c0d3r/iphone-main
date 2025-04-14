@@ -50,6 +50,8 @@ This is a clone of Apple's iPhone 15 Pro website using React.js and TailwindCSS.
 
 ## <a name="follow-me">🫱🏽‍🫲🏼 Let's Connect</a>
 **Hey there! Interested in working with me?** 
-🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/themelodyemmanuel) or shoot me an [email](mailto:melodyemmanuel152@gmail.com) to chat tech and opportunities. Happy with this repo? Intrigued? Fascinated? A ⭐ would really make my day. 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/themelodyemmanuel) or shoot me an [email](mailto:melodyemmanuel152@gmail.com). Tech and career opportunities only, please 👀
+
+Don't forget to (kindly) leave a star ⭐
 
 Looking forward to geeking out together!
